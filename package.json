@@ -11,16 +11,9 @@
     "watch": "tsc -w -p .",
     "format": "prettier --print-width 120 --write \"examples/*.(html|ts|css|json)\" index.html README.md package.json"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sgratzl/d3tutorial.git"
-  },
-  "author": "Samuel Gratzl",
-  "license": "BSD-3-Clause",
-  "bugs": {
-    "url": "https://github.com/sgratzl/d3tutorial/issues"
-  },
-  "homepage": "https://github.com/sgratzl/d3tutorial#readme",
+ 
+  "author": "Bijan Mishra",
+ 
   "dependencies": {
     "d3": "^5.15.1"
   },
