@@ -34,11 +34,7 @@ Download / Include:
 - `<script src="https://d3js.org/d3.v5.js" charset="utf-8"></script>`
 - https://github.com/d3/d3/releases/latest
 
-## Credits
 
-This tutorial is created and maintained by [Samuel Gratzl](https://github.com/sgratzl/d3tutorial), with contributions from [Holger Stitz](https://github.com/thinkh/d3tutorial), and based on a tutorial by [Alexander Lex](https://dataviscourse.net/2016/tutorials/).
-
----
 
 # Content
 
